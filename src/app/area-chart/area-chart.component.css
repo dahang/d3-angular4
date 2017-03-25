@@ -1,0 +1,26 @@
+.d3-chart {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: top;
+    overflow: hidden;
+}
+
+.d3-chart .axis path,
+.d3-chart .axis line {
+  stroke: #999;
+}
+
+.d3-chart .axis text {
+  fill: #999;
+}
+
+
+
+.area-chart-content {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}

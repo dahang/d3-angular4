@@ -1,0 +1,14 @@
+line {
+  stroke: red;
+}
+
+g.group0 path,
+g.group0 circle {
+  stroke: red;
+  fill: none;
+}
+
+path {
+  stroke: green;
+  stroke-width: 2px;
+}
